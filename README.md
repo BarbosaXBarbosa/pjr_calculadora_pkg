@@ -61,7 +61,6 @@ pip install image-processing-test
 
 ## Desenvolvedor do projeto
 
-[<img src="https://avatars.githubusercontent.com/u/96426356?s=400&u=cb53042cc402d962207c7a20dfb6804a580f9526&v=4" width=115><br><sub>João Victor Barbosa</sub> ](https://github.com/barbosaxbarbosa)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/barbosaxbarbosa)
