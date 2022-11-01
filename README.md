@@ -17,7 +17,7 @@ pip install pjr_calculadora
 
 ```python
 from pjr_calculadora import core
-core.my_function()
+core.calc()
 ```
 
 ## Author
