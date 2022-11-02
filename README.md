@@ -3,7 +3,7 @@ Desafio 2 bootcamp - dio
 
 # Projeto: Pacote de uma calculadora em python
 ## Autora do Projeto: BarbosaXBarbosa
-### Projeto: Descomplicando a criação de pacotes de processamento de imagens em Python (DiO)
+### Projeto: Descomplicando a criação de pacotes de em Python (DiO)
 #### Tecnologia: Python
 Data: 1/11/2022
 -----------------------------------------
@@ -24,13 +24,13 @@ pip install --upgrade setuptools wheel
 - [x] Tenha certeza que o diretório no terminal seja o mesmo do arquivo "setup.py"
 
 ```
-C:\User\user-name\image-processing-package> py setup.py sdist bdist_wheel
+C:\User\user-name\your_project> py setup.py sdist bdist_wheel
 ```
 
 - [x] Após completar a instalação, verifique se as pastas abaixo foram adicionadas ao projeto:
   - [x] build;
   - [x] dist;
-  - [x] image_processing_test.egg-info.
+  - [x] your_project.egg-info.
 
 - [x] Basta subir os arquivos, usando o Twine, para o Test Pypi:
 
@@ -40,7 +40,7 @@ py -m twine upload --repository testpypi dist/*
 
 - [x] Após rodar o comando acima no terminal, será pedido para inserir o usuário e senha. Feito isso, o projeto estará hospedado no Test Pypi.hospedá-lo no Pypi diretamente.
 
-### O objetivo este projeto foi realizar um simples teste com o projeto da Karina com hospedagem no Test Pypi em um projeto do bootcamp Unimed BH da DiO.
+### O objetivo este projeto foi realizar um simples teste com o projeto da calculadora usando a hospedagem no Test Pypi em um projeto do bootcamp Unimed BH da DiO.
 
 ----------------------------------------------------
 ## Instalação local, após hospedagem no Test Pypi
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 - [x] Instalção do Pacote
 
-Use o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/ package-image-processing-vitor-souza ```para instalar image_processing-test
+Use o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/ package-image-processing-vitor-souza ```para instalar your_project-test
 
 ```bash
 pip install image-processing-test
