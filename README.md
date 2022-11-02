@@ -2,7 +2,7 @@
 Desafio 2 bootcamp - dio 
 
 # Projeto: Pacote de uma calculadora em python
-## Autora do Projeto: BarbosaXBarbosa
+## Autor do Projeto: BarbosaXBarbosa
 ### Projeto: Descomplicando a criação de pacotes de em Python (DiO)
 #### Tecnologia: Python
 Data: 1/11/2022
